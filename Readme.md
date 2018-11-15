@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomSpreadsheetLocalizer.cs](./CS/LocalizerExample/CustomSpreadsheetLocalizer.cs) (VB: [CustomSpreadsheetLocalizer.vb](./VB/LocalizerExample/CustomSpreadsheetLocalizer.vb))
+* [Form1.cs](./CS/LocalizerExample/Form1.cs) (VB: [Form1.vb](./VB/LocalizerExample/Form1.vb))
+<!-- default file list end -->
 # XtraSpreadsheet localizer example
 
 
